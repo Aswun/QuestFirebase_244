@@ -19,6 +19,7 @@ import com.example.prak14.modeldata.UIStateSiswa
 import com.example.prak14.view.route.DestinasiEntry
 import com.example.prak14.viewmodel.EntryViewModel
 import com.example.prak14.viewmodel.PenyediaViewModel
+import androidx.compose.ui.input.nestedscroll.nestedScroll
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
