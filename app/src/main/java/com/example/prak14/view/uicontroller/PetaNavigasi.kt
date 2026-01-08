@@ -1,4 +1,4 @@
-package com.example.prak14.view.controllNavigasi
+package com.example.prak14.view.uicontroller
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
